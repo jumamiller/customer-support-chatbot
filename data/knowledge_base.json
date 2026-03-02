@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kb_001",
+    "title": "Return and Refund Policy",
+    "content": "Our return and refund policy allows customers to return products within 30 days of delivery for a full refund. Items must be unused and in original packaging. Digital products and gift cards are non-refundable. To initiate a return, go to My Orders, select the item, and click Request Return. Refunds are processed within 5-7 business days to the original payment method. Shipping costs for returns are covered by us for defective items. For non-defective returns, a flat shipping fee of $5.99 will be deducted from the refund amount."
+  },
+  {
+    "id": "kb_002",
+    "title": "Subscription Plans and Pricing",
+    "content": "We offer three subscription tiers: Basic Plan at $9.99/month or $99.99/year (saves 17%) includes core features, 10GB storage, email support, and up to 3 team members. Premium Plan at $29.99/month or $299.99/year (saves 17%) includes all Basic features plus unlimited storage, priority support, API access, advanced analytics, and up to 25 team members. Enterprise Plan with custom pricing includes all Premium features plus dedicated account manager, custom SLA, SSO/SCIM, unlimited team members, and 24/7 phone support. All plans come with a 14-day free trial. Annual billing saves 17% on all tiers."
+  },
+  {
+    "id": "kb_003",
+    "title": "Shipping Information",
+    "content": "Standard shipping takes 5-7 business days and is free for orders over $50, otherwise $4.99. Express shipping takes 2-3 business days for $9.99. Same-day delivery is available in select cities for orders placed before 12:00 PM, priced at $14.99 or free for orders over $100. International shipping is available to 50+ countries, with costs calculated at checkout based on weight and destination. Tracking information is sent via email within 24 hours of shipment. Signature is required for orders over $200."
+  },
+  {
+    "id": "kb_004",
+    "title": "Account Security and Two-Factor Authentication",
+    "content": "We take account security seriously. All passwords are hashed using bcrypt. We offer two-factor authentication (2FA) through authenticator apps (Google Authenticator, Authy), SMS, or email. To enable 2FA, go to Settings > Security > Two-Factor Authentication. You will receive 10 backup recovery codes — store them in a safe place. If you lose access to your 2FA device, use a recovery code to log in, or contact support with identity verification. Accounts are locked after 5 failed login attempts for 30 minutes. We send email alerts for logins from new devices or locations."
+  },
+  {
+    "id": "kb_005",
+    "title": "Sera ya Faragha na Ulinzi wa Data",
+    "content": "Sisi tunalinda data yako kwa uzito mkubwa. Data yote inasimbwa wakati wa usafiri (TLS 1.3) na wakati imehifadhiwa (AES-256). Hatuwahi kuuza data yako kwa mtu wa tatu. Data yako huhifadhiwa katika vituo vya data vyenye cheti cha ISO 27001. Tunafuata sheria za GDPR, CCPA, na POPIA. Unaweza kupakua data yako yote wakati wowote kutoka kwa mipangilio ya akaunti yako. Kufuta akaunti yako kutaondoa data yako yote ndani ya siku 30. Tunapata ufikiaji wa data ya watumiaji tu kwa idhini yako au kwa sababu za kisheria."
+  },
+  {
+    "id": "kb_006",
+    "title": "API Documentation Overview",
+    "content": "Our REST API is available at api.example.com/v2/. Authentication uses OAuth 2.0 with Bearer tokens. Generate API keys from Settings > Developer > API Keys. Rate limits: Free tier 100 requests/minute, Premium 1000/minute, Enterprise custom. Available endpoints include: GET /users, POST /orders, GET /products, POST /support/tickets. SDKs available for Python, JavaScript, Java, Go, and Ruby. Webhooks can be configured for real-time event notifications including order updates, payment confirmations, and support ticket changes. Full interactive documentation at docs.example.com/api."
+  },
+  {
+    "id": "kb_007",
+    "title": "Politique de Garantie",
+    "content": "Tous nos produits sont couverts par une garantie standard d'un an contre les défauts de fabrication. Des extensions de garantie sont disponibles: 1 an supplémentaire (49,99€), 2 ans (79,99€), 3 ans (99,99€). L'extension de garantie peut être souscrite dans les 30 jours suivant l'achat. La garantie couvre les défauts de fabrication et les pannes matérielles. Elle ne couvre pas les dommages accidentels (sauf garantie 2 ans+), l'usure normale (sauf garantie 3 ans), ou les modifications non autorisées. Pour faire une réclamation, contactez le support avec votre preuve d'achat et une description du problème."
+  },
+  {
+    "id": "kb_008",
+    "title": "Troubleshooting Common App Issues",
+    "content": "If the app crashes or freezes: 1) Force close and restart the app, 2) Check for updates in App Store/Play Store, 3) Clear app cache in device settings, 4) Restart your device, 5) Uninstall and reinstall the app. For login issues: ensure correct email/password, try password reset, check internet connection, try different network. For slow performance: close other apps, free up device storage (minimum 500MB required), ensure OS is up to date. For sync issues: pull down to refresh, check internet connection, log out and back in. If problems persist, contact support with: device model, OS version, app version, and screenshot of the error."
+  },
+  {
+    "id": "kb_009",
+    "title": "Información sobre Programa de Lealtad",
+    "content": "Nuestro programa de lealtad recompensa a los clientes fieles. Gana puntos con cada compra: 1 punto por cada $1 gastado. 100 puntos = $5 de descuento. Puntos adicionales por: escribir reseñas (50 puntos), referir amigos (200 puntos por referido exitoso), compras en fechas especiales (puntos dobles). Los puntos expiran 12 meses después de la última actividad. Niveles de membresía: Bronce (0-499 puntos/año), Plata (500-1999 puntos/año, 5% descuento adicional), Oro (2000+ puntos/año, 10% descuento adicional y envío gratis). Consulta tu saldo de puntos en Mi Cuenta > Programa de Lealtad."
+  },
+  {
+    "id": "kb_010",
+    "title": "Kontoinformationen und Zahlungsmethoden",
+    "content": "Wir akzeptieren folgende Zahlungsmethoden: Kreditkarten (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, Banküberweisung (nur Jahresabonnements), und Kauf auf Rechnung (nach Bonitätsprüfung). Um Ihre Zahlungsmethode zu ändern: Einstellungen > Abrechnung > Zahlungsmethode aktualisieren. Rechnungen werden am 1. jedes Monats (monatliche Abonnements) oder am Jahrestag des Abonnements (jährliche Abonnements) erstellt. Rechnungen sind als PDF unter Einstellungen > Abrechnung > Rechnungshistorie verfügbar. Bei fehlgeschlagenen Zahlungen haben Sie 7 Tage Zeit, die Zahlungsinformationen zu aktualisieren, bevor der Dienst pausiert wird."
+  },
+  {
+    "id": "kb_011",
+    "title": "Team Management and Roles",
+    "content": "Business and Enterprise accounts support multiple team members with role-based access. Available roles: Admin (full access, billing, user management), Manager (can manage content and view reports, cannot access billing), Editor (can create and edit content), Viewer (read-only access). To add team members: Admin Dashboard > Team Management > Add Member. Enter email and assign role. Maximum team sizes: Basic (3), Premium (25), Enterprise (unlimited). Team members can be organized into groups for easier permission management. Activity logs track all team member actions for compliance and auditing purposes."
+  },
+  {
+    "id": "kb_012",
+    "title": "Huduma za Wateja na Mawasiliano",
+    "content": "Timu yetu ya huduma kwa wateja inapatikana kupitia njia mbalimbali: Mazungumzo ya mtandaoni - 24/7, nyakati zote. Barua pepe (support@example.com) - majibu ndani ya masaa 4 siku za kazi. Simu (+254-XXX-XXXXXX) - Jumatatu hadi Ijumaa, 8AM-6PM EAT, Jumamosi 10AM-4PM. Mitandao ya kijamii (Twitter/X, Facebook) - majibu ndani ya masaa 2. Kituo cha Msaada (help.example.com) - makala 500+ za kujisaidia. Tunasaidia lugha 20+ ikiwa ni pamoja na Kiswahili, Kiingereza, Kifaransa, Kihispania, Kijerumani, Kichina, na Kiarabu. Wateja wa Premium na Enterprise wanapata msaada wa kipaumbele na nyakati fupi za kusubiri."
+  }
+]
